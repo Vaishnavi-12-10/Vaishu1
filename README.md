@@ -1,2 +1,2 @@
-# Vaihu
+# Vaishu
 software
